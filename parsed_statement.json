@@ -1,0 +1,105 @@
+{
+    "trades": {
+        "4/23/5 - JUN 25 CME MICRO S&P": [
+            {
+                "date": "4/23/5",
+                "contract": "JUN 25 CME MICRO S&P",
+                "direction": "BUY",
+                "quantity": 1,
+                "price": 5383.75
+            },
+            {
+                "date": "4/23/5",
+                "contract": "JUN 25 CME MICRO S&P",
+                "direction": "BUY",
+                "quantity": 1,
+                "price": 5393.25
+            },
+            {
+                "date": "4/23/5",
+                "contract": "JUN 25 CME MICRO S&P",
+                "direction": "BUY",
+                "quantity": 1,
+                "price": 5407.0
+            },
+            {
+                "date": "4/23/5",
+                "contract": "JUN 25 CME MICRO S&P",
+                "direction": "BUY",
+                "quantity": 1,
+                "price": 5408.0
+            },
+            {
+                "date": "4/23/5",
+                "contract": "JUN 25 CME MICRO S&P",
+                "direction": "BUY",
+                "quantity": 1,
+                "price": 5414.5
+            },
+            {
+                "date": "4/23/5",
+                "contract": "JUN 25 CME MICRO S&P",
+                "direction": "BUY",
+                "quantity": 1,
+                "price": 5427.25
+            },
+            {
+                "date": "4/23/5",
+                "contract": "JUN 25 CME MICRO S&P",
+                "direction": "BUY",
+                "quantity": 1,
+                "price": 5383.75
+            },
+            {
+                "date": "4/23/5",
+                "contract": "JUN 25 CME MICRO S&P",
+                "direction": "BUY",
+                "quantity": 1,
+                "price": 5393.25
+            },
+            {
+                "date": "4/23/5",
+                "contract": "JUN 25 CME MICRO S&P",
+                "direction": "BUY",
+                "quantity": 1,
+                "price": 5407.0
+            },
+            {
+                "date": "4/23/5",
+                "contract": "JUN 25 CME MICRO S&P",
+                "direction": "BUY",
+                "quantity": 1,
+                "price": 5408.0
+            },
+            {
+                "date": "4/23/5",
+                "contract": "JUN 25 CME MICRO S&P",
+                "direction": "BUY",
+                "quantity": 1,
+                "price": 5414.5
+            },
+            {
+                "date": "4/23/5",
+                "contract": "JUN 25 CME MICRO S&P",
+                "direction": "BUY",
+                "quantity": 1,
+                "price": 5427.25
+            }
+        ]
+    },
+    "fees": {
+        "commission": 13.5,
+        "exchange_fee": 2.1,
+        "nfa_fee": 0.12,
+        "total_fees": 15.72
+    },
+    "gross_profit_loss": 21.25,
+    "balances": {
+        "beginning_balance": 307.43,
+        "ending_balance": 5.53,
+        "total_equity": 5.53,
+        "account_value": 5.53,
+        "excess_equity": 5.53
+    },
+    "journal_entries": []
+}
